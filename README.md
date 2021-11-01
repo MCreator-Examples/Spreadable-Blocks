@@ -1,3 +1,4 @@
+![Items Tubes](https://i.imgur.com/sxteK14.png)
 # SPREADABLE BLOCKS
 Project files for the [MCreator](https://mcreator.net/) example and tutorial.
 
@@ -27,6 +28,3 @@ Procedures have been built by NorthWestTrees Gaming.
 
 ## TUTORIALS
 * [YouTube: Spreadable Blocks tutorial](https://youtu.be/t1gQSwcnhik) - Published on 2019-11-12
-
-## GALLERY
-![Items Tubes](https://i.imgur.com/sxteK14.png)
